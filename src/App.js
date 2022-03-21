@@ -7,7 +7,9 @@ import StarshipPage from './pages/StarshipPage';
 function App() {
   return (
     <>
+    <div className="nav">
       <h1> Star Wars Starships</h1>
+    </div>
       <a href='/starships'>To the starships</a>
       <Routes>
       <Route path="/starships" element={<AllStarships />} />
