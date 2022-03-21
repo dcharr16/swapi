@@ -1,0 +1,61 @@
+div .nav {
+  background-color: black;
+  color: whitesmoke;
+  margin-top: -26px;
+  height: 90px;
+  padding: 38px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+div .allships {
+  margin: 3%;
+}
+div .starship-card {
+  background-color: #064949;
+  margin: 2%;
+  height: 15vh;
+  width: 30vh;
+  display: inline-flex;
+  justify-content: center;
+  border-radius: 3%;
+}
+.card-link {
+  color: whitesmoke;
+  line-height: 7;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.details-card {
+  background-color: #064949;
+  height: 30vh;
+  width: 50vh;
+  margin: auto;
+  margin-top: 10%;
+  padding: 2vh;
+}
+
+.prop {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.background {
+  height: 500vh;
+  width: 100vh;
+}
+
+
+.return {
+  color: whitesmoke;
+  line-height: 7;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
